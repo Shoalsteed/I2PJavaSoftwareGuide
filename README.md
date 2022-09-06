@@ -144,6 +144,12 @@ Besides the Address Book, I2P addresses can be shared by converting them into QR
 
 This is a general-purpose adapter for forwarding services ( ie SSH ) into I2P and proxying client requests to and from I2P. It provides a variety of “Tunnel Types” which are able to do advance filtering of traffic before it reaches I2P.
 
+**Use Cases**
+- Outproxy configuration https://geti2p.net/en/blog/post/2022/08/04/Enable-StormyCloud
+- Access an SSH Server Remotely (https://geti2p.net/en/blog/post/2019/06/15/i2p-i2pd-ssh-config)
+- Mirror an existing site https://geti2p.net/en/blog/post/2019/06/02/mirroring-guide
+- Configure HTTP for an I2P network site https://geti2p.net/en/blog/post/2019/06/02/basic-tunnel-tutorial
+
 
 # Configuration/ Diagnostics
 ![img](https://user-images.githubusercontent.com/50714166/139135452-12b8a281-ae5a-4a0e-8efe-40da85fbe42c.png)
