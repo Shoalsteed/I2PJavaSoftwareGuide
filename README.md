@@ -1,5 +1,5 @@
 # I2P Java Software Guide
-I2P Java Software Guide
+
 
 # The I2P Router
 
