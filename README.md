@@ -5,9 +5,11 @@ I2P Java Software Guide
 
 This is where you can see your network connections and information about your router. You will be able to see how many peers you have, and other information that will help if you need to troubleshoot. You can stop and start the router as well. You will see the applications that the software includes, as well as links to some community forums and sites on the I2P network. You will receive news when there is a a new software release, and will be able to download the latest version here as well. Additionally, you can find shortcuts to other available applications. The console is customizable and includes a default light theme with a dark theme option.
 
-# Sidebar Error Messages and what they mean
+# Sidebar Error Messages And What They Mean
 
 OK: Your UDP port does not appear to be firewalled.
+
+![img](https://user-images.githubusercontent.com/50714166/188681416-502dd6e5-d2e5-4609-89df-d78af9c183e6.png)
 
 Firewalled: Your UDP port appears to be firewalled. As the firewall detection methods are not 100% reliable, this may occasionally be displayed in error. However, if it appears consistently, you should check whether both your external and internal firewalls are open for your port. 
 
