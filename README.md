@@ -93,7 +93,7 @@ connections. Please configure a TCP host and port on the Network Configuration p
 Applications are made available through a webUI, which listens at 127.0.0.1:7657.
 
 
-# SusiMail (Developed by: postman, susi23, mastiejaner)
+# SusiMail 
 ![img](https://user-images.githubusercontent.com/50714166/188678059-289fe956-9c27-495a-bae2-7158ac010b84.png)
 
 SusiMail is a secure email client. It is primarily intended for use with Postman’s email servers inside of the I2P network . It is designed to avoid leaking information about email use to other networks. SusiMail is bridged so it can send and receive email from the internet as well. Occasionally you may see some services like Gmail classifying it as spam, which you can correct in your Internet email service providers settings.
@@ -107,45 +107,45 @@ SusiMail can be accesed from the router console.
 ![img](https://user-images.githubusercontent.com/50714166/188678062-ca64d7fa-b511-4296-908f-94b7fbd28157.png)
 
 # Snark
+![img](https://user-images.githubusercontent.com/50714166/139136578-818c0cb8-f644-4e7f-9ba1-b5f950ea105e.png)
 
 Snark is an I2P network only BitTorrent client. It never makes a connection to a peer over any other network.
 
-![img](https://user-images.githubusercontent.com/50714166/139136578-818c0cb8-f644-4e7f-9ba1-b5f950ea105e.png)
 
 # Static Site Template
+![img](https://user-images.githubusercontent.com/50714166/139137278-85863a7f-e51d-47dc-ae94-95ac7345ca84.png)
 
 A template that you can modify to set up your own self-hosted I2P site is included.
 
-![img](https://user-images.githubusercontent.com/50714166/139137278-85863a7f-e51d-47dc-ae94-95ac7345ca84.png)
 
 # The Address Book
+![img](https://user-images.githubusercontent.com/50714166/139136086-a8759d09-9805-48b7-ba4f-453b263ac527.png)
 
 This is a locally-defined list of human-readable addresses ( ie: i2p-projekt.i2p) and corresponding I2P addresses.(udhdrtrcetjm5sxzskjyr5ztpeszydbh4dpl3pl4utgqqw2v4jna.b32.i2p) It integrates with other applications to allow you to use those human-readable addresses in place of those I2P addresses. It is more similar to a hosts file or a contact list than a network database or a DNS service. There is no recognized global namespace, you decide what any given .i2p domain maps to in the end.
 
-![img](https://user-images.githubusercontent.com/50714166/139136086-a8759d09-9805-48b7-ba4f-453b263ac527.png)
 
 # The QR Code Generator
+![img](https://user-images.githubusercontent.com/50714166/147276090-e8e2331c-95cf-415d-a123-a32b8ab26db9.png)
 
 Besides the Address Book, I2P addresses can be shared by converting them into QR codes and scanning them with a camera. This is especially useful for Android devices.
 
-![img](https://user-images.githubusercontent.com/50714166/147276090-e8e2331c-95cf-415d-a123-a32b8ab26db9.png)
 
 # The Hidden Services Manager
+![img](https://user-images.githubusercontent.com/50714166/147276313-9895a165-8ca1-4587-b55c-801d66bfce7b.png)
 
 This is a general-purpose adapter for forwarding services ( ie SSH ) into I2P and proxying client requests to and from I2P. It provides a variety of “Tunnel Types” which are able to do advance filtering of traffic before it reaches I2P.
 
-![img](https://user-images.githubusercontent.com/50714166/147276313-9895a165-8ca1-4587-b55c-801d66bfce7b.png)
 
 # Configuration/ Diagnostics
+![img](https://user-images.githubusercontent.com/50714166/139135452-12b8a281-ae5a-4a0e-8efe-40da85fbe42c.png)
 
 Customize your I2P router here. This includes bandwidth settings, home page, and the overall look and feel of your rouer console UI. Privacy and security setting can be adjusted here as well, such as your tunnel hops. Add more plugins and reseed from a url in this section as well.
 
-![img](https://user-images.githubusercontent.com/50714166/139135452-12b8a281-ae5a-4a0e-8efe-40da85fbe42c.png)
 
 # I2P Network Peers
+![img](https://user-images.githubusercontent.com/50714166/188700328-2189440a-13ca-413f-9cc3-4d506a421765.png)
 
 Check on Peer connections here, as well as UPnP Status.
 
-![img](https://user-images.githubusercontent.com/50714166/188700328-2189440a-13ca-413f-9cc3-4d506a421765.png)
 
 
