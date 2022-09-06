@@ -1,9 +1,18 @@
 # I2P Java Software Guide
 I2P Java Software Guide
 
+# The I2P Router
+
+The first time your I2P router makes connections to the network, it may take a few minutes to integrate your router into the network. As it begins to make this connection by finding peers, you will see the number of Active Peers begin to grow in the sidebar Peers status section.
+When your router is ready, you will also see a Local Tunnel named Shared Clients listed there, and possibly other clients and servers. These Local Tunnels provide connections to the I2P network, enabling your bittorrent, email, web proxy and other services. Your Network Database indicates all known peers on the network. Additionally, you can monitor existing Peer Connections, and view existing Tunnels and their status. 
+
+
+When the I2P router starts up, and during normal operation, the tunnel build readiness indicator in the sidebar may indicate that I2P is "Rejecting Tunnels." This is normal behaviour.
+
 # The I2P Router Console
 
-This is where you can see your network connections and information about your router. You will be able to see how many peers you have, and other information that will help if you need to troubleshoot. You can stop and start the router as well. You will see the applications that the software includes, as well as links to some community forums and sites on the I2P network. You will receive news when there is a a new software release, and will be able to download the latest version here as well. Additionally, you can find shortcuts to other available applications. The console is customizable and includes a default light theme with a dark theme option.
+This is where you can see your network connections and information about your I2P router. You will be able to see how many peers you have, and other information that will help if you need to troubleshoot. You can stop and start the router as well. You will see the applications that the software includes, as well as links to some community forums and sites on the I2P network. You will receive news when there is a a new software release, and will be able to download the latest version here as well. Additionally, you can find shortcuts to other available applications. The console is customizable and includes a default light theme with a dark theme option.
+
 
 # Sidebar Error Messages And What They Mean
 
