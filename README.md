@@ -156,6 +156,10 @@ This is a general-purpose adapter for forwarding services ( ie SSH ) into I2P an
 
 Customize your I2P router here. This includes bandwidth settings, home page, and the overall look and feel of your rouer console UI. Privacy and security setting can be adjusted here as well, such as your tunnel hops. Add more plugins and reseed from a url in this section as well.
 
+**Use Cases**
+
+Configure your router to be a Bitcoin Node https://geti2p.net/en/blog/post/2021/09/18/i2p-bitcoin
+
 
 # I2P Network Peers
 ![img](https://user-images.githubusercontent.com/50714166/188700328-2189440a-13ca-413f-9cc3-4d506a421765.png)
