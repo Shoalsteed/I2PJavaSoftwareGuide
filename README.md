@@ -5,6 +5,7 @@ I2P Java Software Guide
 
 The first time your I2P router makes connections to the network, it may take a few minutes to integrate your router into the network. As it begins to make this connection by finding peers, you will see the number of Active Peers begin to grow in the sidebar Peers status section.
 When your router is ready, you will also see a Local Tunnel named Shared Clients listed there, and possibly other clients and servers. These Local Tunnels provide connections to the I2P network, enabling your bittorrent, email, web proxy and other services. Your Network Database indicates all known peers on the network. Additionally, you can monitor existing Peer Connections, and view existing Tunnels and their status. 
+![img](https://user-images.githubusercontent.com/50714166/188688035-aed54954-d404-4d3e-a51e-942c22221b0f.png)
 
 
 When the I2P router starts up, and during normal operation, the tunnel build readiness indicator in the sidebar may indicate that I2P is "Rejecting Tunnels." This is normal behaviour.
