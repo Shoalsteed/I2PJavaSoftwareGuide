@@ -8,7 +8,7 @@ When your router is ready, you will also see a Local Tunnel named Shared Clients
 
 When the I2P router starts up, and during normal operation, the tunnel build readiness indicator in the sidebar may indicate that I2P is "Rejecting Tunnels." This is normal behaviour.
 
-![img](![img](https://user-images.githubusercontent.com/50714166/188688035-aed54954-d404-4d3e-a51e-942c22221b0f.png)
+![img](https://user-images.githubusercontent.com/50714166/188688035-aed54954-d404-4d3e-a51e-942c22221b0f.png)
 
 
 # The I2P Router Console
