@@ -11,7 +11,7 @@ OK: Your UDP port does not appear to be firewalled.
 
 ![img](https://user-images.githubusercontent.com/50714166/188681416-502dd6e5-d2e5-4609-89df-d78af9c183e6.png)
 
-Firewalled: Your UDP port appears to be firewalled. As the firewall detection methods are not 100% reliable, this may occasionally be displayed in error. However, if it appears consistently, you should check whether both your external and internal firewalls are open for your port. 
+*Firewalled*: Your UDP port appears to be firewalled. As the firewall detection methods are not 100% reliable, this may occasionally be displayed in error. However, if it appears consistently, you should check whether both your external and internal firewalls are open for your port. 
 
 I2P will work fine when firewalled, there is no reason for concern. When firewalled, the router uses "introducers" to relay inbound connections. However, you will get more participating traffic and help the network if you open your firewall. If you think you have already done so, remember that you may have both a hardware and a software firewall, or be behind an additional, institutional firewall you cannot control. Also, some routers cannot correctly forward both TCP and UDP on a single port, or may have other limitations or bugs that prevent them from passing traffic through to I2P.
 
