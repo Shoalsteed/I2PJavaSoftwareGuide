@@ -55,6 +55,8 @@ Links in this section include access to I2P technical docs, the project Bugtrack
 
 # Sidebar Error Messages And What They Mean
 
+*Reseed*: In some cases there are issues with finding Peers and connecting with the I2P network. If the router is encountering this issue, it will provide the option to "Reseed" in the sidebar. Clicking the Reseed button will fetch a bundle of Peers router infos
+
 *OK*: Your UDP port does not appear to be firewalled.
 
 ![img](https://user-images.githubusercontent.com/50714166/188681416-502dd6e5-d2e5-4609-89df-d78af9c183e6.png)
@@ -98,3 +100,21 @@ In addition, each user has control of their batching strategy prior to delivery 
 
 SusiMail can be accesed from the router console. 
 ![img](https://user-images.githubusercontent.com/50714166/188678062-ca64d7fa-b511-4296-908f-94b7fbd28157.png)
+
+# Snark
+
+Snark is an I2P network only BitTorrent client. It never makes a connection to a peer over any other network.
+
+![img](https://user-images.githubusercontent.com/50714166/139136578-818c0cb8-f644-4e7f-9ba1-b5f950ea105e.png)
+
+# Static Site Template
+
+A template that you can modify to set up your own self-hosted I2P site is included.
+
+![img](https://user-images.githubusercontent.com/50714166/139137278-85863a7f-e51d-47dc-ae94-95ac7345ca84.png)
+
+# The Address Book
+
+This is a locally-defined list of human-readable addresses ( ie: i2p-projekt.i2p) and corresponding I2P addresses.(udhdrtrcetjm5sxzskjyr5ztpeszydbh4dpl3pl4utgqqw2v4jna.b32.i2p) It integrates with other applications to allow you to use those human-readable addresses in place of those I2P addresses. It is more similar to a hosts file or a contact list than a network database or a DNS service. There is no recognized global namespace, you decide what any given .i2p domain maps to in the end.
+
+![img](https://user-images.githubusercontent.com/50714166/139136086-a8759d09-9805-48b7-ba4f-453b263ac527.png)
