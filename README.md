@@ -146,4 +146,6 @@ Customize your I2P router here. This includes bandwidth settings, home page, and
 
 Check on Peer connections here, as well as UPnP Status.
 
+![img](https://user-images.githubusercontent.com/50714166/188700328-2189440a-13ca-413f-9cc3-4d506a421765.png)
+
 
