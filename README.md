@@ -15,13 +15,13 @@ When the I2P router starts up, and during normal operation, the tunnel build rea
 
 This is where you can see your network connections and information about your I2P router. You will be able to see how many peers you have, and other information that will help if you need to troubleshoot. You can stop and start the router as well. You will see the applications that the software includes, as well as links to some community forums and sites on the I2P network. You will receive news when there is a a new software release, and will be able to download the latest version here as well. Additionally, you can find shortcuts to other available applications. The console is customizable and includes a default light theme with a dark theme option.
 
-**/home 
+**/home** 
 
 ![img](https://user-images.githubusercontent.com/50714166/138901134-6e1df8dc-cb93-4a7d-b6ef-fc6d4ec9081c.png)
 
 This is the landing page of the I2P router console. It is comprised of a sidebar, news, and quick links to I2P applications, a selection of I2P sites, services, help and configuration.
 
-*Sidebar
+*Sidebar*
 The sidebar will display:
 -what version of I2P you are running
 -how long it has been running
@@ -31,31 +31,31 @@ The sidebar will display:
 -reseed if required
 -options to stop, restart your router
 
-*News
+*News*
 The news section will display highlights from a new release, and alerts when there is a need to do an update to any plugins, or extensions or the I2P router software itself. This section can be displayed or hidden based on your preference.
 
-*Applications
+*Applications*
 The I2P router includes : I2P Addressbook , Email, Hidden Services Manager, Torrents, and a Web Server. This section provides links to each.
 
-*I2P Community Sites
+*I2P Community Sites*
 This is a collection of sites and services that the I2P team hosts, with exception of the Tin Hat. They are are all internal to the I2P network.
 They include links to zzz' dev forum, the community forum, the project Gitlab, and more. If you want to check if your browser is configured properly and if you are connected to the I2P network, click on one of these options to find out!
 
-*Configuration and Help
+*Configuration and Help*
 In this section you can access your bandwidth sharing options, help and FAQ , and add plugins to your router, or customize the look of your router console as part of the configuration options available.
 
-*Network and Developer Information
+*Network and Developer Information*
 Links in this section include access to I2P technical docs, the project Bugtracker, Trac Wiki, and metrics options for people who are interested in I2P network statistics. Logs for your router can be accessed here as well.
 
-**/console
+**/console**
 
 /console is a welcome page that provides information about error messages, warmings and troubleshooting information.
 
-1[img](https://user-images.githubusercontent.com/50714166/138901499-8df0e6a1-78cc-40c7-80e6-9a6aa91e1073.png)
+![img](https://user-images.githubusercontent.com/50714166/138901499-8df0e6a1-78cc-40c7-80e6-9a6aa91e1073.png)
 
 # Sidebar Error Messages And What They Mean
 
-OK: Your UDP port does not appear to be firewalled.
+*OK*: Your UDP port does not appear to be firewalled.
 
 ![img](https://user-images.githubusercontent.com/50714166/188681416-502dd6e5-d2e5-4609-89df-d78af9c183e6.png)
 
