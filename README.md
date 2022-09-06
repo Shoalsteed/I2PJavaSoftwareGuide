@@ -88,6 +88,11 @@ connections. Please configure a TCP host and port on the Network Configuration p
 
 *ERR - Client Manager I2CP Error - check logs*: This is usually due to a port 7654 conflict. Check the logs to verify. Do you have another I2P instance running? Stop the conflicting program and restart I2P.
 
+# I2P Applications, Services and Configuration
+
+Applications are made available through a webUI, which listens at 127.0.0.1:7657.
+
+
 # SusiMail (Developed by: postman, susi23, mastiejaner)
 ![img](https://user-images.githubusercontent.com/50714166/188678059-289fe956-9c27-495a-bae2-7158ac010b84.png)
 
@@ -118,3 +123,27 @@ A template that you can modify to set up your own self-hosted I2P site is includ
 This is a locally-defined list of human-readable addresses ( ie: i2p-projekt.i2p) and corresponding I2P addresses.(udhdrtrcetjm5sxzskjyr5ztpeszydbh4dpl3pl4utgqqw2v4jna.b32.i2p) It integrates with other applications to allow you to use those human-readable addresses in place of those I2P addresses. It is more similar to a hosts file or a contact list than a network database or a DNS service. There is no recognized global namespace, you decide what any given .i2p domain maps to in the end.
 
 ![img](https://user-images.githubusercontent.com/50714166/139136086-a8759d09-9805-48b7-ba4f-453b263ac527.png)
+
+# The QR Code Generator
+
+Besides the Address Book, I2P addresses can be shared by converting them into QR codes and scanning them with a camera. This is especially useful for Android devices.
+
+![img](https://user-images.githubusercontent.com/50714166/147276090-e8e2331c-95cf-415d-a123-a32b8ab26db9.png)
+
+# The Hidden Services Manager
+
+This is a general-purpose adapter for forwarding services ( ie SSH ) into I2P and proxying client requests to and from I2P. It provides a variety of “Tunnel Types” which are able to do advance filtering of traffic before it reaches I2P.
+
+![img](https://user-images.githubusercontent.com/50714166/147276313-9895a165-8ca1-4587-b55c-801d66bfce7b.png)
+
+# Configuration/ Diagnostics
+
+Customize your I2P router here. This includes bandwidth settings, home page, and the overall look and feel of your rouer console UI. Privacy and security setting can be adjusted here as well, such as your tunnel hops. Add more plugins and reseed from a url in this section as well.
+
+![img](https://user-images.githubusercontent.com/50714166/139135452-12b8a281-ae5a-4a0e-8efe-40da85fbe42c.png)
+
+# I2P Network Peers
+
+Check on Peer connections here, as well as UPnP Status.
+
+
