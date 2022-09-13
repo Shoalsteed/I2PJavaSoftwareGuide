@@ -17,7 +17,7 @@ When the I2P router starts up, and during normal operation, the tunnel build rea
 **Share ratio:** The number of participating tunnels you route for others, divided by the total number of hops in all your exploratory and client tunnels. A number greater than 1.00 means you are contributing more tunnels to the network than you are using.
 
 
-![img](https://user-images.githubusercontent.com/50714166/188688035-aed54954-d404-4d3e-a51e-942c22221b0f.png)
+![img](https://user-images.githubusercontent.com/50714166/188688035-aed54954-d404-4d3e-a51e-942c22221b0f.png) 
 
 
 # The I2P Router Console
