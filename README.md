@@ -140,7 +140,7 @@ Besides the Address Book, I2P addresses can be shared by converting them into QR
 
 
 # The Hidden Services Manager
-![img] (https://user-images.githubusercontent.com/50714166/147276313-9895a165-8ca1-4587-b55c-801d66bfce7b.png)
+![img](https://user-images.githubusercontent.com/50714166/147276313-9895a165-8ca1-4587-b55c-801d66bfce7b.png)
 
 This is a general-purpose adapter for forwarding services ( ie SSH ) into I2P and proxying client requests to and from I2P. It provides a variety of “Tunnel Types” which are able to do advance filtering of traffic before it reaches I2P.
 
