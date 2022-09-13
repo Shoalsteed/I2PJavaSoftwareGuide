@@ -150,7 +150,7 @@ This is a general-purpose adapter for forwarding services ( ie SSH ) into I2P an
 - Mirror an existing site https://geti2p.net/en/blog/post/2019/06/02/mirroring-guide
 - Configure HTTP for an I2P network site https://geti2p.net/en/blog/post/2019/06/02/basic-tunnel-tutorial
 
-# Outproxy For Accessing Clearnet ( Internet) Content and Sevices
+# Outproxy For Accessing Clearnet ( Internet) Content and Services
 ![img](https://user-images.githubusercontent.com/50714166/189747365-0a5241c2-e826-49b3-bfb8-0fe81873c277.png)
 
 To support compatibility with the clearnet ( Internet ) and also maintain a privacy workflow, I2P provides access to an outproxy. This service is provided by StormyCloud Inc. https://stormycloud.org/.
