@@ -150,6 +150,11 @@ This is a general-purpose adapter for forwarding services ( ie SSH ) into I2P an
 - Mirror an existing site https://geti2p.net/en/blog/post/2019/06/02/mirroring-guide
 - Configure HTTP for an I2P network site https://geti2p.net/en/blog/post/2019/06/02/basic-tunnel-tutorial
 
+# Outproxy For Accessing Clearnet ( Internet) Content and Sevices
+
+To support compatibility with the clearnet ( Internet ) and also maintain a privacy workflow, I2P provides access to an outproxy. This service is provided by StormyCloud Inc. https://stormycloud.org/.
+An outproxy is similar to Tor’s exit nodes, it allows for clearnet (normal internet traffic) to be relayed through the I2P network. In other words, it allows I2P users to access the internet through the safety of the I2P network.
+
 
 # Configuration/ Diagnostics
 ![img](https://user-images.githubusercontent.com/50714166/139135452-12b8a281-ae5a-4a0e-8efe-40da85fbe42c.png)
@@ -165,6 +170,8 @@ Configure your router to be a Bitcoin Node https://geti2p.net/en/blog/post/2021/
 ![img](https://user-images.githubusercontent.com/50714166/188700328-2189440a-13ca-413f-9cc3-4d506a421765.png)
 
 Check on Peer connections here, as well as UPnP Status.
+
+
 
 
 
