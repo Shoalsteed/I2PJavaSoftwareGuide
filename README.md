@@ -22,7 +22,8 @@ When the I2P router starts up, and during normal operation, the tunnel build rea
 
 # The I2P Router Console
 
-This is where you can see your network connections and information about your I2P router. You will be able to see how many peers you have, and other information that will help if you need to troubleshoot. You can stop and start the router as well. You will see the applications that the software includes, as well as links to some community forums and sites on the I2P network. You will receive news when there is a a new software release, and will be able to download the latest version here as well. Additionally, you can find shortcuts to other available applications. The console is customizable and includes a default light theme with a dark theme option.
+This is where you can view your network connections and other information about your I2P router and applications. You will be able to see how many peers you have, and other information that will help if you need to troubleshoot. You can stop and start the router as well. Best practice is to allow your router to gracefully shut down. This means letting it redirect any traffic your router is handling in a way that does not cause disruptions for others.
+You wil find here the applications that the software includes, as well as links to some community forums and sites on the I2P network. You will receive news when there is a a new software release, and will be able to download the latest version here as well. Additionally, you can find shortcuts to other available applications. The console is customizable and includes a default light theme with a dark theme option. You can also customoze your sidebar. and other elements depending on your workflow.
 
 **/home** 
 
@@ -47,14 +48,14 @@ The news section will display highlights from a new release, and alerts when the
 The I2P router includes : I2P Addressbook , Email, Hidden Services Manager, Torrents, and a Web Server. This section provides links to each.
 
 *I2P Community Sites*
-This is a collection of sites and services that the I2P team hosts, with exception of the Tin Hat. They are are all internal to the I2P network.
+This is a collection of I2Pnnetwork sites and services that the I2P team hosts. 
 They include links to zzz' dev forum, the community forum, the project Gitlab, and more. If you want to check if your browser is configured properly and if you are connected to the I2P network, click on one of these options to find out!
 
 *Configuration and Help*
-In this section you can access your bandwidth sharing options, help and FAQ , and add plugins to your router, or customize the look of your router console as part of the configuration options available.
+In this section you can access your bandwidth sharing options, help and FAQ , and add plugins to your router, or customize the look of your router console.
 
 *Network and Developer Information*
-Links in this section include access to I2P technical docs, the project Bugtracker, Trac Wiki, and metrics options for people who are interested in I2P network statistics. Logs for your router can be accessed here as well.
+Links in this section include access to I2P technical docs, Gitlab issues, Trac Wiki, and metrics options for people who are interested in I2P network statistics. Logs for your router can be accessed here as well.
 
 **/console**
 
