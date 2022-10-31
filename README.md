@@ -1,3 +1,5 @@
+This guide was modified and published here: https://medium.com/p/685d7a7ed57b.
+Please file an issue if you would like to add anything or find an error. 
 
 # The I2P Router 
 
